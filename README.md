@@ -78,35 +78,9 @@
 
 # 🔍 Pinned Repositories
 
-## 🏢 [Employee-Flow](https://github.com/yourusername/employee-flow)  
+## 🏢 [boi poka ](https://github.com/yourusername/employee-flow)  
 **A modern HR Management Platform**  
 Built with: `React` `Vite` `Tailwind CSS` `Firebase`  
 📌 Easily manage employees, HR tasks, payroll, and analytics—all in one place.  
 ![Tech Stack](https://skillicons.dev/icons?i=react,firebase,tailwind,js)
-
-## 🛠️ [Skillora](https://github.com/yourusername/skillora)  
-**Skills Sharing Platform**  
-Built with: `React` `Node.js` `MongoDB`  
-📌 Connect with local experts, offer services, and book what you need.  
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,mongodb)
-
-## 🌱 [Green-Connect](https://github.com/yourusername/green-connect)  
-**Sustainable Gardening Community**  
-Built with: `Next.js` `Tailwind CSS`  
-📌 Discover, share, and learn about sustainable gardening.  
-![Tech Stack](https://skillicons.dev/icons?i=nextjs,tailwind,js)
-
-## 🍔 [Food-Cart](https://github.com/yourusername/food-cart)  
-**Food Ordering Platform**  
-Built with: `React` `Redux` `Firebase`  
-📌 Browse, order, and manage dishes with authentication and cart system.  
-![Tech Stack](https://skillicons.dev/icons?i=react,redux,firebase)
-
-## ⚡ [Profast-Client](https://github.com/yourusername/profast-client)  
-**Professional Services Platform**  
-Built with: `Vue.js` `Vuetify`  
-📌 Client-side application for service professionals.  
-![Tech Stack](https://skillicons.dev/icons?i=vue,vuetify)
-
-
 
