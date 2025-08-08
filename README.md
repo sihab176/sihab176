@@ -1,6 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/nKAGyIv.png" alt="Banner" width="100%" />
+<!--   <img src="https://i.ibb.co.com/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" /> -->
+   <img src="https://i.ibb.co/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" />
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
 <h1 align="left">
