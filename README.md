@@ -50,10 +50,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:shariar@example.com" target="blank">
+  <a href="mailto:shariar2739@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+  <a href="https://www.linkedin.com/in/shahab-bin-shariar-web/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
