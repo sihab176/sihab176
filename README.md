@@ -75,11 +75,8 @@
 </p>
 
 ---
-### 📊 Relevant GitHub Stats  
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sihab176&theme=radical)  
 
 
 
