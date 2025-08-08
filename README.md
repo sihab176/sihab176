@@ -1,7 +1,9 @@
 <!-- Banner Section -->
 <p align="center">
 <!--   <img src="https://i.ibb.co.com/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" /> -->
-   <img src="https://i.ibb.co/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+<!--    <img src="https://i.ibb.co/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" /> -->
+   <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
+  
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
 <h1 align="left">
@@ -20,13 +22,16 @@
 - ⚡ Fun fact: I love solving real-world problems and mentoring others!
 
 ---
+### 📌 Current Activities  
+- 🚀 Currently learning Next.js.  
+- 🌐 Working on developing a modern tourism website.  
+---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,4 +75,11 @@
 </p>
 
 ---
+### 📊 Relevant GitHub Stats  
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sihab176&theme=radical)  
+
+
 
