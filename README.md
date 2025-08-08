@@ -1,8 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-<!--   <img src="https://i.ibb.co.com/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" /> -->
-<!--    <img src="https://i.ibb.co/Kx2Y2LXJ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%" /> -->
-   <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Banner" width="100%" />
+   <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Banner" width="100%" height="400" />
   
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
@@ -76,11 +74,5 @@
 
 ---
 
-# 🔍 Pinned Repositories
 
-## 🏢 [boi poka ](https://github.com/yourusername/employee-flow)  
-**A modern HR Management Platform**  
-Built with: `React` `Vite` `Tailwind CSS` `Firebase`  
-📌 Easily manage employees, HR tasks, payroll, and analytics—all in one place.  
-![Tech Stack](https://skillicons.dev/icons?i=react,firebase,tailwind,js)
 
