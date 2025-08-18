@@ -7,7 +7,9 @@
    <img src="https://i.ibb.co/wFY2c1YB/Black-and-Teal-Modern-Web-Developer-Presentation.png" 
      alt="GitHub Banner" 
      width="100%" 
-     height="600" />
+     height="500" 
+     object-fit
+           />
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
 <h1 align="left">
