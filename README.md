@@ -1,9 +1,13 @@
 <!-- Banner Section -->
 <p align="center">
-   <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" 
+<!--    <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" 
         alt="Banner" 
         width="100%" 
-        height="600" />
+        height="600" /> -->
+   <img src="https://i.ibb.co/wFY2c1YB/Black-and-Teal-Modern-Web-Developer-Presentation.png" 
+     alt="GitHub Banner" 
+     width="100%" 
+     height="600" />
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
 <h1 align="left">
