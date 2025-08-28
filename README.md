@@ -1,15 +1,18 @@
 <!-- Banner Section -->
 <p align="center">
-<!--    <img src="https://i.ibb.co/Ldcb7QRB/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" 
-        alt="Banner" 
-        width="100%" 
-        height="600" /> -->
-   <img src="https://i.ibb.co/wFY2c1YB/Black-and-Teal-Modern-Web-Developer-Presentation.png" 
+<!--    <img src="https://i.ibb.co/wFY2c1YB/Black-and-Teal-Modern-Web-Developer-Presentation.png" 
      alt="GitHub Banner" 
      width="100%" 
      height="500" 
      object-fit
-           />
+           /> -->
+        <img src="https://i.ibb.co.com/39TqtcbZ/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner-1.png" 
+     alt="GitHub Banner" 
+     width="100%" 
+     height="500" 
+     style="object-fit: cover;" 
+/>
+
 </p>
 <h3 align="">Hi 👋, I'm Shariar</h3>
 <h1 align="left">
